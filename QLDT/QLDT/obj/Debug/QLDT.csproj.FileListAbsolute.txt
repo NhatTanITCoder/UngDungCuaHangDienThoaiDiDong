@@ -1,0 +1,89 @@
+D:\QLDT\QLDT\bin\Debug\QLDT.exe.config
+D:\QLDT\QLDT\bin\Debug\QLDT.exe
+D:\QLDT\QLDT\bin\Debug\QLDT.pdb
+D:\QLDT\QLDT\obj\Debug\QLDT.csproj.AssemblyReference.cache
+D:\QLDT\QLDT\obj\Debug\QLDT.BanHang.resources
+D:\QLDT\QLDT\obj\Debug\QLDT.Properties.Resources.resources
+D:\QLDT\QLDT\obj\Debug\QLDT.csproj.GenerateResource.cache
+D:\QLDT\QLDT\obj\Debug\QLDT.csproj.CoreCompileInputs.cache
+D:\QLDT\QLDT\obj\Debug\QLDT.exe
+D:\QLDT\QLDT\obj\Debug\QLDT.pdb
+D:\QLDT\QLDT\obj\Debug\QLDT.DangNhap.resources
+D:\QLDT\QLDT\obj\Debug\QLDT.DangKy.resources
+D:\QLDT\QLDT\obj\Debug\QLDT.QuenMatKhau.resources
+D:\QLDT\QLDT\obj\Debug\QLDT.Main.resources
+C:\Users\Admin\Documents\Học kì 5\Công nghê .net\DoAn\QLDT\QLDT\bin\Debug\QLDT.exe.config
+C:\Users\Admin\Documents\Học kì 5\Công nghê .net\DoAn\QLDT\QLDT\obj\Debug\QLDT.exe
+C:\Users\Admin\Documents\Học kì 5\Công nghê .net\DoAn\QLDT\QLDT\obj\Debug\QLDT.pdb
+C:\Users\Admin\Documents\Học kì 5\Công nghê .net\DoAn\QLDT\QLDT\bin\Debug\QLDT.exe
+C:\Users\Admin\Documents\Học kì 5\Công nghê .net\DoAn\QLDT\QLDT\bin\Debug\QLDT.pdb
+C:\Users\Admin\Documents\Học kì 5\Công nghê .net\DoAn\QLDT\QLDT\obj\Debug\QLDT.BanHang.resources
+C:\Users\Admin\Documents\Học kì 5\Công nghê .net\DoAn\QLDT\QLDT\obj\Debug\QLDT.DangKy.resources
+C:\Users\Admin\Documents\Học kì 5\Công nghê .net\DoAn\QLDT\QLDT\obj\Debug\QLDT.DangNhap.resources
+C:\Users\Admin\Documents\Học kì 5\Công nghê .net\DoAn\QLDT\QLDT\obj\Debug\QLDT.Properties.Resources.resources
+C:\Users\Admin\Documents\Học kì 5\Công nghê .net\DoAn\QLDT\QLDT\obj\Debug\QLDT.QuenMatKhau.resources
+C:\Users\Admin\Documents\Học kì 5\Công nghê .net\DoAn\QLDT\QLDT\obj\Debug\QLDT.csproj.GenerateResource.Cache
+E:\Công nghệ chấm nét\DoAn\QLDT\QLDT\bin\Debug\QLDT.exe.config
+E:\Công nghệ chấm nét\DoAn\QLDT\QLDT\obj\Debug\QLDT.exe
+E:\Công nghệ chấm nét\DoAn\QLDT\QLDT\obj\Debug\QLDT.pdb
+E:\Công nghệ chấm nét\DoAn\QLDT\QLDT\bin\Debug\QLDT.exe
+E:\Công nghệ chấm nét\DoAn\QLDT\QLDT\bin\Debug\QLDT.pdb
+E:\Công nghệ chấm nét\DoAn\QLDT\QLDT\obj\Debug\QLDT.csprojResolveAssemblyReference.cache
+E:\Công nghệ chấm nét\DoAn\QLDT\QLDT\obj\Debug\QLDT.BanHang.resources
+E:\Công nghệ chấm nét\DoAn\QLDT\QLDT\obj\Debug\QLDT.DangKy.resources
+E:\Công nghệ chấm nét\DoAn\QLDT\QLDT\obj\Debug\QLDT.DangNhap.resources
+E:\Công nghệ chấm nét\DoAn\QLDT\QLDT\obj\Debug\QLDT.Properties.Resources.resources
+E:\Công nghệ chấm nét\DoAn\QLDT\QLDT\obj\Debug\QLDT.QuenMatKhau.resources
+E:\Công nghệ chấm nét\DoAn\QLDT\QLDT\obj\Debug\QLDT.TrangChu.resources
+E:\Công nghệ chấm nét\DoAn\QLDT\QLDT\obj\Debug\QLDT.csproj.GenerateResource.Cache
+E:\Công nghệ chấm nét\DoAn\QLDT\QLDT\obj\Debug\QLDT.SanPham.resources
+E:\Công nghệ chấm nét\DoAn\QLDT\QLDT\obj\Debug\QLDT.ThuongHieu.resources
+C:\Users\Admin\Desktop\QLDT\QLDT\bin\Debug\QLDT.exe.config
+C:\Users\Admin\Desktop\QLDT\QLDT\obj\Debug\QLDT.exe
+C:\Users\Admin\Desktop\QLDT\QLDT\obj\Debug\QLDT.pdb
+C:\Users\Admin\Desktop\QLDT\QLDT\bin\Debug\QLDT.exe
+C:\Users\Admin\Desktop\QLDT\QLDT\bin\Debug\QLDT.pdb
+C:\Users\Admin\Desktop\QLDT\QLDT\obj\Debug\QLDT.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\QLDT\QLDT\obj\Debug\QLDT.BanHang.resources
+C:\Users\Admin\Desktop\QLDT\QLDT\obj\Debug\QLDT.DangKy.resources
+C:\Users\Admin\Desktop\QLDT\QLDT\obj\Debug\QLDT.DangNhap.resources
+C:\Users\Admin\Desktop\QLDT\QLDT\obj\Debug\QLDT.Properties.Resources.resources
+C:\Users\Admin\Desktop\QLDT\QLDT\obj\Debug\QLDT.QuenMatKhau.resources
+C:\Users\Admin\Desktop\QLDT\QLDT\obj\Debug\QLDT.SanPham.resources
+C:\Users\Admin\Desktop\QLDT\QLDT\obj\Debug\QLDT.ThuongHieu.resources
+C:\Users\Admin\Desktop\QLDT\QLDT\obj\Debug\QLDT.TrangChu.resources
+C:\Users\Admin\Desktop\QLDT\QLDT\obj\Debug\QLDT.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Học kì 5\Công nghê .net\DoAn\QLDT\QLDT\obj\Debug\QLDT.SanPham.resources
+C:\Users\Admin\Documents\Học kì 5\Công nghê .net\DoAn\QLDT\QLDT\obj\Debug\QLDT.ThuongHieu.resources
+C:\Users\Admin\Documents\Học kì 5\Công nghê .net\DoAn\QLDT\QLDT\obj\Debug\QLDT.TrangChu.resources
+C:\Users\Admin\Documents\Học kì 5\Công nghê .net\DoAn\QLDT\QLDT\obj\Debug\QLDT.KhachHang.resources
+C:\Users\Admin\Documents\Học kì 5\Công nghê .net\DoAn\QLDT\QLDT\obj\Debug\QLDT.NhanVien.resources
+C:\Users\Admin\Documents\Học kì 5\Công nghê .net\DoAn\QLDT\QLDT\obj\Debug\QLDT.NhaCungCap.resources
+C:\Users\Admin\Documents\Học kì 5\Công nghê .net\DoAn\QLDT\QLDT\obj\Debug\QLDT.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\DoAnCNNet\QLDT\QLDT\bin\Debug\QLDT.exe.config
+C:\Users\Admin\Documents\DoAnCNNet\QLDT\QLDT\bin\Debug\QLDT.exe
+C:\Users\Admin\Documents\DoAnCNNet\QLDT\QLDT\bin\Debug\QLDT.pdb
+C:\Users\Admin\Documents\DoAnCNNet\QLDT\QLDT\obj\Debug\QLDT.NhapHang.resources
+C:\Users\Admin\Documents\DoAnCNNet\QLDT\QLDT\obj\Debug\QLDT.KetNoiServer.resources
+C:\Users\Admin\Documents\DoAnCNNet\QLDT\QLDT\obj\Debug\QLDT.BanHang.resources
+C:\Users\Admin\Documents\DoAnCNNet\QLDT\QLDT\obj\Debug\QLDT.DangKy.resources
+C:\Users\Admin\Documents\DoAnCNNet\QLDT\QLDT\obj\Debug\QLDT.Properties.Resources.resources
+C:\Users\Admin\Documents\DoAnCNNet\QLDT\QLDT\obj\Debug\QLDT.DangNhap.resources
+C:\Users\Admin\Documents\DoAnCNNet\QLDT\QLDT\obj\Debug\QLDT.HeThong.resources
+C:\Users\Admin\Documents\DoAnCNNet\QLDT\QLDT\obj\Debug\QLDT.KhachHang.resources
+C:\Users\Admin\Documents\DoAnCNNet\QLDT\QLDT\obj\Debug\QLDT.NhaCungCap.resources
+C:\Users\Admin\Documents\DoAnCNNet\QLDT\QLDT\obj\Debug\QLDT.NhanVien.resources
+C:\Users\Admin\Documents\DoAnCNNet\QLDT\QLDT\obj\Debug\QLDT.QuenMatKhau.resources
+C:\Users\Admin\Documents\DoAnCNNet\QLDT\QLDT\obj\Debug\QLDT.wInHoaDonBanHang.resources
+C:\Users\Admin\Documents\DoAnCNNet\QLDT\QLDT\obj\Debug\QLDT.wInHoaDonNhapHang.resources
+C:\Users\Admin\Documents\DoAnCNNet\QLDT\QLDT\obj\Debug\QLDT.SanPham.resources
+C:\Users\Admin\Documents\DoAnCNNet\QLDT\QLDT\obj\Debug\QLDT.ThongKe.resources
+C:\Users\Admin\Documents\DoAnCNNet\QLDT\QLDT\obj\Debug\QLDT.ThuongHieu.resources
+C:\Users\Admin\Documents\DoAnCNNet\QLDT\QLDT\obj\Debug\QLDT.TrangChu.resources
+C:\Users\Admin\Documents\DoAnCNNet\QLDT\QLDT\obj\Debug\QLDT.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\DoAnCNNet\QLDT\QLDT\obj\Debug\QLDT.exe
+C:\Users\Admin\Documents\DoAnCNNet\QLDT\QLDT\obj\Debug\QLDT.pdb
+C:\Users\Admin\Documents\DoAnCNNet\QLDT\QLDT\obj\Debug\QLDT.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\CuaHangDienThoai\QLDT\QLDT\bin\Debug\QLDT.exe.config
+C:\Users\Admin\Desktop\CuaHangDienThoai\QLDT\QLDT\obj\Debug\QLDT.exe
+C:\Users\Admin\Desktop\CuaHangDienThoai\QLDT\QLDT\obj\Debug\QLDT.pdb
